@@ -1,0 +1,3 @@
+/Users/clonerplus/desktop/STM32F4_mp3_player/cmake-build-debug/CMakeFiles/STM32F4_mp3_player.elf.dir
+/Users/clonerplus/desktop/STM32F4_mp3_player/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/clonerplus/desktop/STM32F4_mp3_player/cmake-build-debug/CMakeFiles/rebuild_cache.dir
